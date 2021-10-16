@@ -12,6 +12,7 @@ Crear una API REST con Express y el paquete pg para servir el backend de una apl
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+- $ git clone https://github.com/krakerbrain/desafio_gestion_de_cursos
 - $ cd ../path/to/the/file
 - $ npm install
 - $ node server.js
